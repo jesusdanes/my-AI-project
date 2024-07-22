@@ -1,7 +1,6 @@
 # Project
 
-AI Helper (in Health Diagnostics)
-Building AI course project
+AI Helper (in Health Diagnostics). Building AI course project
 
 
 
@@ -23,7 +22,7 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 ## Data and AI Techniques
 
-* Data Sources:
+** Data Sources:
 - Large collections of medical images (X-rays, MRIs, CT scans) obtained from hospitals and research institutions known as Medical Databases offer precious insights. This is important because the more cases that exist in datasets for AI algorithms to learn from, the better they can become at detecting and diagnosing conditions accurately (which will allow should help lead to earlier interventions and improved patient outcomes).
 - Public Health Records. These refer to epidemiological data and health statistics derived from public share organizations. This data analysis provides information on trends are occurring for which infections, better understanding of disease spread and evaluation or interventions. Now more than ever, we need this information to guide lawmakers and healthcare professions in making informed decisions that protect the health of everyone.
 - Clinical Trials: as they can provide specific information regarding disease evolution and the responses of different patients to treatments. Such data from careful test sites is essential to seed the development and improve of diagnostic devices. By embedding clinical demo data within AI systems, there will be better personalised treatment recommendations which will assist in patient recovery and will help to move medical science forward.
