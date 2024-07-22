@@ -1,18 +1,18 @@
-#Project
+# Project
 
 AI Helper (in Health Diagnostics)
 Building AI course project
 
 
 
-##Summary
+## Summary
 
 AI Helper (in Health Diagnostics)
 AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated platform to assist doctors in early diagnosis of various diseases based on the symptoms presented and refer them to concern specialist while taking into account that it may not be an exact disease, as different scenarios often complicate making dependable medical conclusions within everyday clinical practice area. This awesome IA will serve as supportive tools (i.e., the doctor's right hand) to help identify, diagnose and classify diseases better through of a system intended for it. To do so, it becomes a data wiz and uses an advanced algorithm to examine scans, images of diseased lungs or any other patient-related information etc. This is not to mention the patient benefit of a quicker, more accurate diagnosis for better treatment and general health.
 
 
 
-##Background
+## Background
 
 * Problem: doctors can get stuck in the challenge of accurately diagnosing diseases, early on. Unfortunately, diagnostic errors are far too common and can take a severe toll on patients. Now, envision being ill and getting the wrong treatment because there are just way too many information out even for one of the most educated physician. All that complicated medical data and perplexing scans might lead to missed or delayed diagnosis, that cause people suffering longer (sometimes died) from curable illnesses. This is a huge healthcare concern in need of being addressed.
 * Prevalence: millions of people in the world are misdiagnosed every year. Research by the National Academy of Medicine found that a shocking 6% to17%of major harm events in hospital were due to misdiagnosis with an even more surprising figure than approximately10 % of patient deaths. These are some of the statistics that underscore how big a problem this is and indicate just how urgently solutions need to be found. However, behind these statistics are real patients and their families who have to suffer through an incorrect diagnosis or a delayed one. In the long-run, they may remain sick for a longer period of time with more serious consequences and suffer considerable distress in their lives as a result. It is a problem with very real human consequences.
@@ -21,7 +21,7 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 
 
-##Data and AI Techniques
+## Data and AI Techniques
 
 * Data Sources:
 - Large collections of medical images (X-rays, MRIs, CT scans) obtained from hospitals and research institutions known as Medical Databases offer precious insights. This is important because the more cases that exist in datasets for AI algorithms to learn from, the better they can become at detecting and diagnosing conditions accurately (which will allow should help lead to earlier interventions and improved patient outcomes).
@@ -36,7 +36,7 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 
 
-##How It Is Used
+## How It Is Used
 
 * Context and Users:
 - For Hospitals and Clinics: healthcare professionals use AI Helper to help interpret medical images, and patient information.
@@ -50,7 +50,7 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 
 
-##Challenges
+## Challenges
 
 * Limitations:
 - Data Respect: Protect patient data while complying with regulations such as HIPAA, GDPR.
@@ -64,7 +64,7 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 
 
-##What Next
+## What Next
 
 * Growth Potential:
 - Scalability:## as an extension of the technology for different diseases and systems across various countries.
