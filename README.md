@@ -6,8 +6,7 @@ AI Helper (in Health Diagnostics). Building AI course project
 
 ## Summary
 
-AI Helper (in Health Diagnostics)
-AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated platform to assist doctors in early diagnosis of various diseases based on the symptoms presented and refer them to concern specialist while taking into account that it may not be an exact disease, as different scenarios often complicate making dependable medical conclusions within everyday clinical practice area. This awesome IA will serve as supportive tools (i.e., the doctor's right hand) to help identify, diagnose and classify diseases better through of a system intended for it. To do so, it becomes a data wiz and uses an advanced algorithm to examine scans, images of diseased lungs or any other patient-related information etc. This is not to mention the patient benefit of a quicker, more accurate diagnosis for better treatment and general health.
+AI Helper (in Health Diagnostics). AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated platform to assist doctors in early diagnosis of various diseases based on the symptoms presented and refer them to concern specialist while taking into account that it may not be an exact disease, as different scenarios often complicate making dependable medical conclusions within everyday clinical practice area. This awesome IA will serve as supportive tools (i.e., the doctor's right hand) to help identify, diagnose and classify diseases better through of a system intended for it. To do so, it becomes a data wiz and uses an advanced algorithm to examine scans, images of diseased lungs or any other patient-related information etc. This is not to mention the patient benefit of a quicker, more accurate diagnosis for better treatment and general health.
 
 
 
@@ -22,12 +21,12 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 ## Data and AI Techniques
 
-** Data Sources:
+*** Data Sources:
 - Large collections of medical images (X-rays, MRIs, CT scans) obtained from hospitals and research institutions known as Medical Databases offer precious insights. This is important because the more cases that exist in datasets for AI algorithms to learn from, the better they can become at detecting and diagnosing conditions accurately (which will allow should help lead to earlier interventions and improved patient outcomes).
 - Public Health Records. These refer to epidemiological data and health statistics derived from public share organizations. This data analysis provides information on trends are occurring for which infections, better understanding of disease spread and evaluation or interventions. Now more than ever, we need this information to guide lawmakers and healthcare professions in making informed decisions that protect the health of everyone.
 - Clinical Trials: as they can provide specific information regarding disease evolution and the responses of different patients to treatments. Such data from careful test sites is essential to seed the development and improve of diagnostic devices. By embedding clinical demo data within AI systems, there will be better personalised treatment recommendations which will assist in patient recovery and will help to move medical science forward.
 
-* AI Techniques:
+*** AI Techniques:
 - Deep Learning: deep learning is the practice of stacking convolutional neural networks (CNNs) on top medical images such as X-rays and MRIs to allow for quick identification of common issues that may be overlooked in a clinical environment.
 - Machine Learning: such algorithms use outcome information to categorise (in some cases, predict) possible future health problems pathways and aid doctors in recognising individual risks of conditions such as diabetes or cardiovascular disease, facilitating early intervention.
 - Natural language processing (NLP): analyzing unstructured data including larger datasets like Doctor's Notes etc., NLP works as a doctor note summarization system for other complicated systems, where Natural Language Processing extracts extreme symptoms / responses of the disease by evidencing brief features such that they could make more observations.
@@ -37,12 +36,12 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 ## How It Is Used
 
-* Context and Users:
+*** Context and Users:
 - For Hospitals and Clinics: healthcare professionals use AI Helper to help interpret medical images, and patient information.
 - Used in Research & Development (R&D): for biomarker identification and validation 
 - Telemedicine Providers: use the system for remote diagnosis and consultation Expert Diagnostic Panel System
 
-* People Affected:
+*** People Affected:
 - Patients: have landed with swifter and far more accurate diagnoses that will empower rapid effective treatments.
 - Healthcare Providers: gain a reliable resource to enhance their diagnosis thereby decreasing the error rate.
 - Healthcare Systems: enhance performance and decrease misdiagnosis & delayed diagnosis-related expenses.
@@ -51,13 +50,13 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 ## Challenges
 
-* Limitations:
+*** Limitations:
 - Data Respect: Protect patient data while complying with regulations such as HIPAA, GDPR.
 - Avoiding Training Data Bias: solving this issue from dataset perspective to avoid bias in AI models
 - Integration: integrating AI Helper with the existing healthcare IT systems and workflows.
 
 
-* Unsolved Issues:
+*** Unsolved Issues:
 - Human-AI Collaboration: designing systems to ensure close collaboration between healthcare professionals and AI agents in ways that supplement human judgment rather than replacing it.
 - A Wide Coverage: build models that diagnose many diseases well in multiple populations.
 
@@ -65,12 +64,12 @@ AI Helper in Health Diagnostics, an innovative AI tool with a sophisticated plat
 
 ## What Next
 
-* Growth Potential:
+*** Growth Potential:
 - Scalability:## as an extension of the technology for different diseases and systems across various countries.
 - Real-Time data: must have the ability to access real-time data from wearable devices using continuous monitoring systems for patient assessment on an ongoing basis.
 - Research Collaboration: Partner with research institutions for AI models enhancement and validation.
 
-* Acknowledgments
+*** Acknowledgments
 - Open Source Code: AI can be developed using frameworks such as PyTorch, Keras and TensorFlow.
 - What it does: Inspired by IBM Watson Health and Google DeepMind Health projects.
 - Acknowledging Contributions: from Medical Institutions, Public Health Organizations and Clinical Trial Databases as Data Providers.
